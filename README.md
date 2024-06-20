@@ -18,7 +18,7 @@ Dash is a high level programming language used for multiple operations, various 
 
 ## Installation
 
-Go to the official [repository](https://github.com/VoltagedDebunked/dashlang) to download the compiler, and download the official VSCode extension here.
+Go to the official [repository](https://github.com/VoltagedDebunked/dashlang) to download the compiler, and download the official VSCode extension [here.](https://github.com/VoltagedDebunked/dashlang/raw/main/dashlang-0.0.1.vsix)
 
 ## License
 
