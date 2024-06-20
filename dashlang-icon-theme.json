@@ -1,0 +1,10 @@
+{
+    "iconDefinitions": {
+        "dash-icon": {
+            "iconPath": "./dashlang.png"
+        }
+    },
+    "fileExtensions": {
+        "dash": "dash-icon"
+    }
+}

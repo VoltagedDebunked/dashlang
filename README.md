@@ -1,4 +1,4 @@
-# Dash Language
+# Dashlang
 
 ![Visual Studio Marketplace Downloads](https://img.shields.io/visual-studio-marketplace/d/Voltaged.dashlang)
 ![Visual Studio Marketplace Version](https://img.shields.io/visual-studio-marketplace/v/Voltaged.dashlang)
